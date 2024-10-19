@@ -6,7 +6,7 @@
   - MEng, School of Engineering Science, Simon Fraser University
   - Student No.: 301606107
   - Email: cheng-lin_wu@sfu.ca / crashedbboy@gmail.com
-* **Daegil Kang**
+* **Daegil Kang** ([@riverbigroad](https://github.com/riverbigroad))
   - MEng, School of Engineering Science, Simon Fraser University
   - Student No.: 301626179
   - Email: dka160@sfu.ca
