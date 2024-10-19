@@ -10,7 +10,7 @@
   - MEng, School of Engineering Science, Simon Fraser University
   - Student No.: 301626179
   - Email: dka160@sfu.ca
-* **Shiyu Zhang**
+* **Shiyu Zhang** ([@shiyu995](https://github.com/shiyu995))
   - MEng, School of Engineering Science, Simon Fraser University
   - Student No.: 301588601
   - Email: sza212@sfu.ca
